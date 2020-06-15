@@ -29,7 +29,7 @@ function setup() {
 	dustbin.addImage(dustbinImg);
 	dustbin.scale = 0.6;
 
-	launcher = new Launcher(paper.body,{x:400,y:250});
+	launcher = new Launcher(paper.body,{x:550,y:300});
 
     Engine.run(engine);
   
